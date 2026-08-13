@@ -1,11 +1,15 @@
-# Recursivism — A Defensive Cognitive Architecture
+# Recursivism — Historical / Deprecated Teaser
 
 **Author:** RHAMA
 
-This repository contains the finished public teaser edition of *Recursivism: A Defensive Cognitive Architecture*, through **I.3 — Morality as Settlement**.
+**STATUS: DEPRECATED — NOT CANONICAL — NOT AUTHOR-APPROVED AS THE CURRENT FORM OF THE BOOK**
 
-[Read or download the finished teaser PDF](./Recursivism_Preview%20(1).pdf)
+This repository preserves a previously distributed teaser edition of *Recursivism* through I.3 as historical/reference material and provenance.
 
-The teaser may be read, quoted with attribution, and shared **intact with attribution**. Please do not repackage or present the work as your own.
+[View the preserved deprecated teaser PDF](./Recursivism_Preview%20(1).pdf)
+
+RHAMA has resumed sole authorial control of *Recursivism*. This file must not be represented as the finished, canonical, or current author-approved edition of the book.
+
+The preserved teaser may remain in the historical record with attribution, but it should not be presented as the current manuscript.
 
 Copyright 2026 RHAMA.
